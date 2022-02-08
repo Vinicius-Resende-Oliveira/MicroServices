@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b73860ec-29b4-477e-ad0d-621fc09842e0": {
+      "ProjectGuid": "b73860ec-29b4-477e-ad0d-621fc09842e0",
+      "DisplayName": "Products",
+      "ColorIndex": 0
+    },
+    "1da99654-b055-427f-9352-874bc5e71e6b": {
+      "ProjectGuid": "1da99654-b055-427f-9352-874bc5e71e6b",
+      "DisplayName": "Orders",
+      "ColorIndex": 1
+    },
+    "607083c0-fe0f-4717-8532-8db54693538d": {
+      "ProjectGuid": "607083c0-fe0f-4717-8532-8db54693538d",
+      "DisplayName": "Customers",
+      "ColorIndex": 2
+    },
+    "92e40aee-7ba7-4b3f-9a26-415516e3953f": {
+      "ProjectGuid": "92e40aee-7ba7-4b3f-9a26-415516e3953f",
+      "DisplayName": "AplicationWeb",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
